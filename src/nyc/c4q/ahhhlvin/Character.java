@@ -7,22 +7,34 @@ package nyc.c4q.ahhhlvin;
 public abstract class Character implements Attributes
 {
 
+    private int charLevel;
     private int HP;
     private String name;
     private String specialty;
 
     public Character()
     {
+        this.charLevel = 0;
     }
 
-    public Character(int HP, String name, String specialty)
+    public Character(int charLevel, int HP, String name, String specialty)
     {
+        this.charLevel = charLevel;
         this.HP = HP;
         this.name = name;
         this.specialty = specialty;
 
     }
 
+    public int getcharLevel()
+    {
+        return charLevel;
+    }
+
+    public void setcharLevel(int charLevel)
+    {
+        this.charLevel = charLevel;
+    }
 
     public int getHP()
     {
@@ -54,9 +66,10 @@ public abstract class Character implements Attributes
         this.specialty = specialty;
     }
 
-    @Override
-    public String getKillAbility()
-    {
-        return null;
+    public String attack(){
+        return "Uses HANDS and punches!";
     }
+
+
+
 }

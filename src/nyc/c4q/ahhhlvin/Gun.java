@@ -9,9 +9,8 @@ import java.util.ArrayList;
 public class Gun extends Weapon
 {
     @Override
-    public ArrayList<String> getWeapon() {
-        weapons.add("gun");
-        return weapons;
+    public String getWeapon() {
+        return "Current weapon of choice -- GUN";
     }
 
 }

@@ -6,7 +6,7 @@ package nyc.c4q.ahhhlvin;
  */
 public interface Attributes
 {
-    public String fight();
+     int getLevel();
 
 
 }

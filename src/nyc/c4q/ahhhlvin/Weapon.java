@@ -6,27 +6,28 @@ import java.util.ArrayList;
  * Alvin Kuang
  * C4Q Access Code 2.1
  */
-public abstract class Weapon extends Character
+public class Weapon implements Attributes
 {
 
-    ArrayList<String> weapons = new ArrayList<String>();
+    int weaponLevel;
+
+    public Weapon() {
+        this.weaponLevel = 0;
+    }
+
+    public String assignLevel(int levelNum) {
+        this.weaponLevel = levelNum;
+        return "Your weapon has leveled up! Current weapon is at level: " + levelNum;
+    }
+
+    public String getWeapon() {
+        return "Current weapon of choice -- HANDS";
+    }
 
 
-    public Weapon()
+    @Override
+    public int getLevel()
     {
-        weapons.add("hands");
+        return this.weaponLevel;
     }
-
-
-    public ArrayList<String> getWeapon()
-    {
-        return weapons;
-    }
-
-    public ArrayList<String> addWeapon(String weapon) {
-        weapons.add(weapon);
-        return weapons;
-    }
-
-
 }
