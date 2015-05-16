@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ahhhlvin.c4q.nyc.horoscopeproject.test">
+
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="22" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="ahhhlvin.c4q.nyc.horoscopeproject"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for ahhhlvin.c4q.nyc.horoscopeproject"/>
+</manifest>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-c050ac15f0e0dbddbc2fdc5d3a76a74d3a37fef2.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-22e368f854da5cf04c38bea41b72c72d836cd3a2.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-daafc8e2373ea6a2d298fb81609f34f9926dd93d.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-023c6e3794a78f05e84166a6a42485852c70ac35.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-60c6b76dff5a7ae0bb460298bb4a827bfcac39ef.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-aeee2294710bccb567f6d13725bd79c333a1bd89.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-e98ac5f51831692a6acc3656bfa5128045f4d1ce.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-ffe94bc466d9367910eec24a9981a023f33d8d86.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-281bb825ddf03f4b7b7a5dbdf7e3b41803f89e5d.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-64ea126b015b29fa494da244b6fceac0f2f64fc3.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-6dde5670bab762db626d84d780ce1cdff1bf93af.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-a50bf3bbd3b736858a6b297e11c360dfbe754e93.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-7a5383fa9c95653867805930c2c58c08be428362.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-f4870328cfd69563a0df2ca70e63cddda7321dca.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-38969aeb4fda31152f41843cdbc80ad0724ecfea.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-e9f6859b76e50693be63635dcde4ce0aad319e2c.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-36fa970e784ddaa707f48b65cf868716593c40bf.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-2d2f3a40d54f8b795504e563efe205aef60deb53.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-ed5449ab8d8db22c49a33ecdacc3cd112c35e5c7.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-3224c01bd387c838c299aeb8c96880ea41153251.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-c14e3331de9f4ef788b46faa76af3b4b90c7e567.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-304a911b8c3fb8cb490ed0b2b377c338de6da798.jar" />
+    </item>
+    <item
+        jar="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/alvin2/Desktop/accesscode/unit-1/homework/Alvin/HoroscopeProject/app/build/intermediates/pre-dexed/debug/classes-20c586423f14d61ae61ede687fa6251354768eea.jar" />
+    </item>
+
+</items>
